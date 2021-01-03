@@ -54,7 +54,8 @@ public class MySudoku
 	      
 	        f.setVisible(true);	
 	 }//end of show gui method
-		    
+
+	/*
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
@@ -62,7 +63,7 @@ public class MySudoku
             }			
         });  //end of run()
     }//end of main
-    
+    */
 }//end of MySudoku class
 
 /* -- Concept Understanding 
